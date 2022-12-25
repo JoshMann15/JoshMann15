@@ -1,3 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=JoshMann15)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=JoshMann15&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshMann15&layout=compact)
